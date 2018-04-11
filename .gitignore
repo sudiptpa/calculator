@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /vendor/
 =======
 vendor/
@@ -21,4 +21,3 @@ Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
->>>>>>> 537979f676f754d8f32ceb37e4dd3f4e2597999b

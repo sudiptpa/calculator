@@ -21,6 +21,9 @@ After updating composer, no need to change anything in config.php file or in com
 
     php artisan vendor:publish --provider="Lalustine7\Calculator\CalculatorServiceProvider"
 
+### Display
+[yourprojectbasepath]/calculator
+i.e www.myprojectname.com/calculator
 
 ### License
 
