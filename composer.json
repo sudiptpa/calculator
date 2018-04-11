@@ -1,0 +1,25 @@
+{
+    "name": "lalustine7/calculator",
+    "description": "Fun Calculator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lalustine7",
+            "email": "raimausam32@gmail.com"
+        }
+    ],
+     "minimum-stability": "stable",
+      "require": {},
+      "autoload": {
+        "psr-4": {
+          "Lalustine7\\": "src/"
+        }
+      },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Lalustine7\\Calculator\\CalculatorServiceProvider"
+        ]
+    }
+}
+}
